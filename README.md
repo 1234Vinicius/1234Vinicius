@@ -1,4 +1,4 @@
-### Olá, eu me chamo Vinicius!👋
+### Olá, eu me chamo Vinicius!👋😀
 
 
 - 💬 Estudando Atualmente: Java
