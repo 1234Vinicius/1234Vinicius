@@ -3,7 +3,7 @@
 
 - 💬 Estudando Atualmente: Java
 - 🎓 Formação: TI
-- 📔 Cursos Realizados: Manutenção de Redes, Sistemas Operacionais, Pacotes Office, Manutenção de Impressora, Lógica de Programação, Python, PHP, JavaScript, Java, Android Studio, HTML5 e CSS, Mysql e Adobe Photoshop. 
+- 📔 Cursos Realizados: Manutenção de Rede, Sistemas Operacionais, Pacotes Office, Manutenção de Impressora, Lógica de Programação, Python, PHP, JavaScript, Java, Android Studio, HTML5 e CSS, Mysql e Adobe Photoshop. 
 - 📫 Contato para email: rochavinicius458@gmail.com
 
 <div align="center">
@@ -27,6 +27,9 @@
     <img align="center" alt="Vinicius-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Vinicius-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Vinicius-Android-Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+   
+  <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" 
+      src="https://i.picasion.com/pic91/74bd4d53d9b1c5e51638b6c11af3043e.gif" width="150" height="50" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
   </div>
   
