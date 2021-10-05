@@ -1,9 +1,9 @@
 ### Olá, eu me chamo Vinicius!👋
 
 
-- 💬 Estudando: Java
+- 💬 Estudando Atualmente: Java
 - 🎓 Formação: TI
-- 📔 Cursos: Manutenção de Redes, Sistemas Operacionais, Pacotes Office, Lógica de Programação, Python, PHP, JavaScript, Java e Android Studio. 
+- 📔 Cursos Realizados: Manutenção de Redes, Sistemas Operacionais, Pacotes Office, Manutenção de Impressora, Lógica de Programação, Python, PHP, JavaScript, Java, Android Studio, HTML5 e CSS, Mysql e Adobe Photoshop. 
 - 📫 Contato para email: rochavinicius458@gmail.com
 
 <div align="center">
@@ -16,6 +16,8 @@
 
 
  <div style="display: inline_block"><br>
+  
+   ### Linguagens Utilizadas:
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
