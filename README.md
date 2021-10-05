@@ -1,14 +1,14 @@
 ### Olá, eu me chamo Vinicius!👋
 
 
-- 💬 Estudando: Java, Lógica de Programação, JavaScript e Php...
+- 💬 Estudando: Java
 - 🎓 Formação: TI
 - 📔 Cursos: Manutenção de Redes, Sistemas Operacionais, Pacotes Office, Lógica de Programação, Python, PHP, JavaScript, Java e Android Studio. 
 - 📫 Contato para email: rochavinicius458@gmail.com
 
 <div align="center">
   <a href="https://github.com/1234Vinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1234Vinicius&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1234Vinicius&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -38,8 +38,7 @@
  
     
  
-  <a href = "vini:rochavinicius458@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- 
+  
   
    
  
