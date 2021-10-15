@@ -24,8 +24,6 @@
     <img align="center" alt="Vinicius-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Vinicius-Android-Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
    
-  <img align="right" alt="Vinicius-pic" height="150" style="border-radius:50px;" 
-      src="https://i.picasion.com/pic91/74bd4d53d9b1c5e51638b6c11af3043e.gif" width="150" height="50" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
   </div>
   
