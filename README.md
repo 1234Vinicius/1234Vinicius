@@ -1,12 +1,6 @@
 ### Olá, eu me chamo Vinicius!👋😀
 
 
-- 💬 Estudando Atualmente: Java
-- 🎓 Formação: TI
-- 📔 Cursos Realizados: Manutenção de Rede, Sistemas Operacionais, Pacotes Office, Manutenção de Impressora, Lógica de Programação, Python, PHP, JavaScript, Java, Android Studio, HTML5 e CSS, Mysql e Adobe Photoshop. 
-- 💭 Frase:"Não é a linguagem de programação que define o programador, mas sim sua lógica" 
-
-- 📫 Contato para email: rochavinicius458@gmail.com
 
 <div align="center">
   <a href="https://github.com/1234Vinicius">
